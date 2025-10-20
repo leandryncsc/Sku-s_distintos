@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.env.*
+.venv/
+venv/
+env/
+*.ini
+
+# Packaging
+build/
+dist/
+.eggs/
+*.egg-info/
+
+# Testing
+.pytest_cache/
+.coverage
+coverage.xml
+
+# Type checking / tooling
+.mypy_cache/
+.pyre/
+.pytype/
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# OS-specific
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Logs
+*.log
+
+# Misc
+pip-log.txt
+.python-version
